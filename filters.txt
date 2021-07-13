@@ -1,0 +1,144 @@
+Junkable Weapons/Armor
+is:rare is:haspower -tag:keep not:maxpower not:locked not:wishlist rating:<=4.5
+
+Junkable Armor
+is:armor -tag:keep -tag:infuse -tag:favorite not:locked not:exotic basestat:total:<63 not:maxpower not:classitem
+
+Junkable Hunter Cloaks
+is:classitem is:hunter energycapacity:<5 -tag:keep not:maxpower
+
+To Move Weapons/Armor to Vault
+is:incurrentchar not:equipped is:haspower
+
+All Weapons/Armor Stored in Other Characters
+not:incurrentchar not:invault not:equipped is:haspower
+
+===============================
+
+Master Filter
+via https://www.reddit.com/r/DestinyItemManager/comments/kujvqt/i_made_a_filter_for_destiny_item_manager_to_clean/
+
+  (
+  (
+  (is:weapon -is:maxpower -is:masterwork powerlimit:1060 or tag:junk or is:blue)
+  or
+  (
+  (is:armor -is:classitem)
+
+  -(is:titan (basestat:recovery:>=23 or basestat:resilience:>=23 or basestat:total:>=67))
+  -(is:hunter ((basestat:recovery:>=18 basestat:mobility:>=23) or basestat:recovery:>23 or basestat:total:>=67))
+  -(is:warlock ((basestat:recovery:>=23 discipline:>=18) or basestat:total:>=67))
+
+  -(
+  ((basestat:mobility:>=18 basestat:resilience:>=13) or
+  (basestat:mobility:>=18 basestat:recovery:>=13) or
+  (basestat:mobility:>=18 basestat:discipline:>=13) or
+  (basestat:mobility:>=18 basestat:intellect:>=13) or
+  (basestat:mobility:>=18 basestat:strength:>=13) or
+  (basestat:resilience:>=18 basestat:mobility:>=13) or
+  (basestat:resilience:>=18 basestat:recovery:>=13) or
+  (basestat:resilience:>=18 basestat:discipline:>=13) or
+  (basestat:resilience:>=18 basestat:intellect:>=13) or
+  (basestat:resilience:>=18 basestat:strength:>=13) or
+  (basestat:recovery:>=18 basestat:mobility:>=13) or
+  (basestat:recovery:>=18 basestat:resilience:>=13) or
+  (basestat:recovery:>=18 basestat:discipline:>=13) or
+  (basestat:recovery:>=18 basestat:intellect:>=13) or
+  (basestat:recovery:>=18 basestat:strength:>=13) or
+  (basestat:discipline:>=18 basestat:mobility:>=13) or
+  (basestat:discipline:>=18 basestat:resilience:>=13) or
+  (basestat:discipline:>=18 basestat:recovery:>=13) or
+  (basestat:discipline:>=18 basestat:intellect:>=13) or
+  (basestat:discipline:>=18 basestat:strength:>=13) or
+  (basestat:intellect:>=18 basestat:mobility:>=13) or
+  (basestat:intellect:>=18 basestat:resilience:>=13) or
+  (basestat:intellect:>=18 basestat:recovery:>=13) or
+  (basestat:intellect:>=18 basestat:discipline:>=13) or
+  (basestat:intellect:>=18 basestat:strength:>=13) or
+  (basestat:strength:>=18 basestat:mobility:>=13) or
+  (basestat:strength:>=18 basestat:resilience:>=13) or
+  (basestat:strength:>=18 basestat:recovery:>=13) or
+  (basestat:strength:>=18 basestat:discipline:>=13) or
+  (basestat:strength:>=18 basestat:intellect:>=13))
+  )
+
+  -(
+  ((basestat:mobility:>=13 basestat:resilience:>=13 basestat:recovery:>=13) or
+  (basestat:mobility:>=13 basestat:resilience:>=13 basestat:discipline:>=13) or
+  (basestat:mobility:>=13 basestat:resilience:>=13 basestat:intellect:>=13) or
+  (basestat:mobility:>=13 basestat:resilience:>=13 basestat:strength:>=13) or
+  (basestat:mobility:>=13 basestat:recovery:>=13 basestat:discipline:>=13) or
+  (basestat:mobility:>=13 basestat:recovery:>=13 basestat:intellect:>=13) or
+  (basestat:mobility:>=13 basestat:recovery:>=13 basestat:strength:>=13) or
+  (basestat:mobility:>=13 basestat:discipline:>=13 basestat:intellect:>=13) or
+  (basestat:mobility:>=13 basestat:discipline:>=13 basestat:strength:>=13) or
+  (basestat:mobility:>=13 basestat:intellect:>=13 basestat:strength:>=13) or
+  (basestat:resilience:>=13 basestat:recovery:>=13 basestat:discipline:>=13) or
+  (basestat:resilience:>=13 basestat:recovery:>=13 basestat:intellect:>=13) or
+  (basestat:resilience:>=13 basestat:recovery:>=13 basestat:strength:>=13) or
+  (basestat:resilience:>=13 basestat:discipline:>=13 basestat:intellect:>=13) or
+  (basestat:resilience:>=13 basestat:discipline:>=13 basestat:strength:>=13) or
+  (basestat:resilience:>=13 basestat:intellect:>=13 basestat:strength:>=13) or
+  (basestat:recovery:>=13 basestat:discipline:>=13 basestat:intellect:>=13) or
+  (basestat:recovery:>=13 basestat:discipline:>=13 basestat:strength:>=13) or
+  (basestat:recovery:>=13 basestat:intellect:>=13 basestat:strength:>=13) or
+  (basestat:discipline:>=13 basestat:intellect:>=13 basestat:strength:>=13))
+  )
+
+  -(basestat:mobility:>=8 basestat:resilience:>=8 basestat:recovery:>=8 basestat:discipline:>=8 basestat:intellect:>=8 basestat:strength:>=8)
+  )
+
+  or
+  (is:classitem ((is:dupelower) or (is:sunset))) 
+  or
+  (is:armor -powerlimit:>1060) 
+  or
+  (is:armor is:blue)
+  )
+  -tag:keep -tag:archive -tag:favorite -tag:infuse -is:maxpower -power:>=1260 -is:inloadout -is:masterwork
+  )
+
+
+========================
+
+## Tier 3 armor: t3mfa
+
+is:armor -is:maxpower -tag:keep -tag:archive -tag:favorite -tag:infuse not:inloadout not:masterwork
+(
+(
+not:classitem
+-(
+(is:hunter ((basestat:mobility:>=18 basestat:recovery:>=23) or (basestat:mobility:>=23 basestat:total:>=62))) or 
+(is:titan (basestat:recovery:>=23 or (basestat:resilience:>=18 basestat:strength:>=13 basestat:discipline:>=13) or (basestat:strength:>=23  basestat:total:>=62))) or 
+(is:warlock (basestat:recovery:>=28 or (basestat:recovery:>=23 basestat:discipline:>=18) or (basestat:intellect:>=23 basestat:total:>=62))) or 
+(not:hunter basestat:mobility:>=23 basestat:custom:>=24) or 
+(not:warlock basestat:discipline:>=23 basestat:custom:>=24) or 
+(not:titan basestat:strength:>=23 basestat:custom:>=24) or
+(not:titan basestat:resilience:>=10 basestat:custom:>=39) or 
+basestat:total:>=67 or 
+basestat:custom:>=48
+)
+) or
+is:blue
+)
+
+## Tier 2 armor: t2mfa
+
+is:armor -tag:keep -tag:archive -tag:favorite -tag:infuse not:inloadout not:masterwork
+(
+(
+not:classitem
+-(
+(is:hunter ((basestat:recovery:>=13 basestat:mobility:>=13) or (basestat:recovery:>=13 basestat:intellect:>=13) or (basestat:intellect:>=13 basestat:mobility:>=13) or basestat:mobility:>=18)) or 
+(is:titan ((basestat:resilience:>=13 basestat:strength:>=13) or (basestat:recovery:>=13 basestat:strength:>=13) or (basestat:recovery:>=13 basestat:resilience:>=13) or basestat:resilience:>=18)) or 
+(is:warlock ((basestat:recovery:>=13 basestat:discipline:>=13) or (basestat:recovery:>=13 basestat:intellect:>=13) or (basestat:intellect:>=13 basestat:discipline:>=13) or basestat:intellect:>=18 or basestat:recovery:>=18)) or 
+basestat:total:>=62 or 
+basestat:custom:>=39
+)
+) or
+is:blue
+)
+
+## Tier 1 armor: t1mfa
+
+is:armor not:classitem -tag:keep -tag:archive -tag:favorite -tag:infuse not:inloadout not:masterwork -(basestat:mobility:>=8 basestat:resilience:>=8 basestat:recovery:>=8 basestat:discipline:>=8 basestat:intellect:>=8 basestat:strength:>=8)
