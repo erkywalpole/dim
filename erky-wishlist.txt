@@ -172,6 +172,9 @@ dimwishlist:item=1621558458&perks=4090651448,679225683,2946784966,2458213969
 dimwishlist:item=1621558458&perks=4090651448,1885400500,2946784966,2458213969
 dimwishlist:item=1621558458&perks=4090651448,1561002382,2946784966,2458213969
 
+//Farewell
+//notes:Decent for some mid- to low-level add clear and Major damage. Recommended MW: Range/Reload.|tags:pve
+dimwishlist:item=541188001&perks=4090651448,3230963543,2946784966,2458213969
 
 //Nature of the Beast
 //notes:I don't care for any rolls on this weapon.
