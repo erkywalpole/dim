@@ -108,7 +108,7 @@ dimwishlist:item=1621558458&perks=4090651448,679225683,280464955,4104185692
 dimwishlist:item=1621558458&perks=4090651448,1885400500,280464955,4104185692
 dimwishlist:item=1621558458&perks=4090651448,1561002382,280464955,4104185692
 
-//notes:Traditional . Recommended MW: Range.|tags:pvp
+//notes:Super excited about how the newer perks (Tunnel Vision, Heating Up, and Killing Wind) will work with Fenzy in PVP. Recommended MW: Range.|tags:pvp
 dimwishlist:item=1621558458&perks=1482024992,679225683,2450788523,4104185692
 dimwishlist:item=1621558458&perks=1482024992,1885400500,2450788523,4104185692
 dimwishlist:item=1621558458&perks=1482024992,1561002382,2450788523,4104185692
