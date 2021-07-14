@@ -1,5 +1,5 @@
 title:Erky's DIM Wishlist.
-description:These are my personal favorites or aspirational weapon rolls for MnK. Your mileage may vary.
+description:These are my personal favorites or aspirational weapon rolls for MnK and mostly (but not exclusively) PVE. Your mileage may vary.
 
 // Ignition Code
 //notes:Looking for barrels increasing velocity with no downsides, Spike/Blinding + Slideshot + Vorpal or Demolitionist. Recommended MW: Velocity/Handling.|tags:pve
@@ -832,6 +832,58 @@ dimwishlist:item=875848769&perks=1392496348,1885400500,2779035018,3425386926
 dimwishlist:item=875848769&perks=1392496348,3230963543,2779035018,3425386926
 dimwishlist:item=875848769&perks=1482024992,1885400500,2779035018,3425386926
 dimwishlist:item=875848769&perks=1482024992,3230963543,2779035018,3425386926
+
+//Royal Entry
+//notes:Lucky enough to get Auto-Loading/Lasting Impact? Then it doesn't matter what the other perks are. Enjoy the most amazing rocket launcher roll in the game!|tags:pve
+dimwishlist:item=2448907086&perks=3300816228,3927722942
+
+//Empty Vessel
+//notes:Like with most breech-load grenade launchers, you're going for some combination of Blinding/Proxmity/Spike, Auto-Loading, and Disruption Break/Demolitionist/Vorpal/One for All. In my opinion, the launcher barrel perks don't matter.|tags:pve
+dimwishlist:item=4255586669&perks=3032599245,3300816228,1683379515
+dimwishlist:item=4255586669&perks=409831596,3300816228,1683379515
+dimwishlist:item=4255586669&perks=3301904089,3300816228,1683379515
+dimwishlist:item=4255586669&perks=3032599245,3300816228,3523296417
+dimwishlist:item=4255586669&perks=3301904089,3300816228,3523296417
+dimwishlist:item=4255586669&perks=409831596,3300816228,3523296417
+dimwishlist:item=4255586669&perks=3032599245,3300816228,1546637391
+dimwishlist:item=4255586669&perks=3301904089,3300816228,1546637391
+dimwishlist:item=4255586669&perks=409831596,3300816228,1546637391
+dimwishlist:item=4255586669&perks=3032599245,3300816228,4049631843
+dimwishlist:item=4255586669&perks=3301904089,3300816228,4049631843
+dimwishlist:item=4255586669&perks=409831596,3300816228,4049631843
+
+//Frozen Orbit
+//notes:It's so hard to get the best perk trait combos on this gun that I'll be happy with just about any range/handling-boosting barrel perk so long as it also has Accurized Rounds. Recommended MW: Handling for Opening Shot, Range for Snapshot.|tags:pvp
+dimwishlist:item=3473290087&perks=3142289711,588594999,957782887
+dimwishlist:item=3473290087&perks=3142289711,2866798147,957782887
+dimwishlist:item=3473290087&perks=3142289711,588594999,47981717
+dimwishlist:item=3473290087&perks=3142289711,2866798147,47981717
+
+//Stars in Shadow
+//notes:Great against beefier combatants. Looking for perk combos that get that reload and handling up. Recommended MW: Handling or Reload.|tags:pve
+dimwishlist:item=2050789284&perks=839105230,106909392,2869569095,1546637391
+dimwishlist:item=2050789284&perks=839105230,3230963543,2869569095,1546637391
+dimwishlist:item=2050789284&perks=839105230,106909392,2869569095,1015611457
+dimwishlist:item=2050789284&perks=839105230,3230963543,2869569095,1015611457
+dimwishlist:item=2050789284&perks=839105230,106909392,2869569095,1683379515
+dimwishlist:item=2050789284&perks=839105230,3230963543,2869569095,1683379515
+dimwishlist:item=2050789284&perks=839105230,106909392,3096702027,1683379515
+dimwishlist:item=2050789284&perks=839105230,1087426260,3096702027,1683379515
+dimwishlist:item=2050789284&perks=839105230,3230963543,3096702027,1683379515
+dimwishlist:item=2050789284&perks=839105230,106909392,3436462433,1683379515
+dimwishlist:item=2050789284&perks=839105230,3230963543,3436462433,1683379515
+dimwishlist:item=2050789284&perks=839105230,106909392,3436462433,1015611457
+dimwishlist:item=2050789284&perks=839105230,3230963543,3436462433,1015611457
+dimwishlist:item=2050789284&perks=839105230,106909392,3436462433,1546637391
+dimwishlist:item=2050789284&perks=839105230,3230963543,3436462433,1546637391
+
+//Crowd Pleaser
+//notes:Crowd Pleaser doesn't please me. I prefer the rolls on Memory Interdict.
+dimwishlist:item=-3565520715
+
+//Cartesian Coordinate
+//notes:Not looking to keep any rolls of this.
+dimwishlist:item=-2481881293
 
 //Nature of the Beast
 //notes:I don't care for any rolls on this weapon.
