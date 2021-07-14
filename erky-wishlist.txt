@@ -1,6 +1,9 @@
 title:Erky's DIM Wishlist.
 description:These are my personal favorites or aspirational weapon rolls for MnK. Your mileage may vary.
 
+//Test for masterwork
+dimwishlist:item=-69420&perks=,,,,384158423
+
 // Ignition Code
 //notes:Looking for barrels increasing velocity with no downsides, Spike/Blinding + Slideshot + Vorpal or Demolitionist. Recommended MW: Velocity/Handling.|tags:pve
 dimwishlist:item=304659313&perks=3525010810,3032599245,3161816588,1546637391
