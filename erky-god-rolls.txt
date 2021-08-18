@@ -16,3 +16,14 @@ dimwishlist:item=1621558458&perks=839105230,1561002382,2450788523,4104185692
 //notes:Getting the recoil up to 100 and increasing the magazine size as much as possible so Clown Cartridge can get more in the mag. Recommended MW: Handling or Reload.|tags:pve
 dimwishlist:item=852228780&perks=839105230,1087426260,2284787283,1546637391
 dimwishlist:item=852228780&perks=839105230,2420895100,2284787283,1546637391
+
+// Chroma Rush
+//notes:Subsistence + Rampage + 720 auto rifle makes my heart sing! Mag extending perks because I don't ever want to have to reload. Recommended MW: Range or Handling.|tags:pve
+dimwishlist:item=1119734784&perks=839105230,1087426260,1820235745,3425386926
+dimwishlist:item=1119734784&perks=839105230,106909392,1820235745,3425386926
+dimwishlist:item=1119734784&perks=839105230,2420895100,1820235745,3425386926
+
+// Multimach CCX
+//notes:Extend the range with zoom and accurized, and then go after stabilizing or killing perks.|tags:pvp
+dimwishlist:item=3717177717&perks=663495154,3142289711,1359896290,1015611457
+dimwishlist:item=3717177717&perks=663495154,3142289711,2450788523,1015611457
