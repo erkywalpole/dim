@@ -49,10 +49,10 @@ not:classitem
 (is:hunter ((basestat:mobility:>=18 basestat:recovery:>=23) or (basestat:mobility:>=23 basestat:total:>=62))) or 
 (is:titan (basestat:recovery:>=23 or (basestat:resilience:>=18 basestat:strength:>=13 basestat:discipline:>=13) or (basestat:strength:>=23  basestat:total:>=62))) or 
 (is:warlock (basestat:recovery:>=28 or (basestat:recovery:>=23 basestat:discipline:>=18) or (basestat:intellect:>=23 basestat:total:>=62))) or 
-(not:hunter basestat:mobility:>=23 basestat:custom:>=24) or 
-(not:warlock basestat:discipline:>=23 basestat:custom:>=24) or 
-(not:titan basestat:strength:>=23 basestat:custom:>=24) or
-(not:titan basestat:resilience:>=10 basestat:custom:>=39) or 
+(not:hunter basestat:mobility:>=18 basestat:custom:>=39) or 
+(not:warlock basestat:discipline:>=18 basestat:custom:>=39) or 
+(not:titan basestat:strength:>=18 basestat:custom:>=39) or
+(not:titan basestat:resilience:>=18 basestat:custom:>=39) or 
 basestat:total:>=67 or 
 basestat:custom:>=48
 )
