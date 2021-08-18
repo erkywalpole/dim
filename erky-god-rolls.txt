@@ -12,3 +12,7 @@ dimwishlist:item=1621558458&perks=839105230,1561002382,588594999,4104185692
 dimwishlist:item=1621558458&perks=839105230,1561002382,588594999,957782887
 dimwishlist:item=1621558458&perks=839105230,1561002382,2450788523,4104185692
 
+// Uzume RR4 (Adept)
+//notes:Getting the recoil up to 100 and increasing the magazine size as much as possible so Clown Cartridge can get more in the mag. Recommended MW: Handling or Reload.|tags:pve
+dimwishlist:item=852228780&perks=839105230,1087426260,2284787283,1546637391
+dimwishlist:item=852228780&perks=839105230,2420895100,2284787283,1546637391
