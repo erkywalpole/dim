@@ -1,0 +1,14 @@
+title:Erky’s DIM God Rolls Wishlist.
+description:Very select list of weapon rolls that I consider to be god rolls.
+
+// Cold Denial
+//notes:Slept-on gun that I think could shred in Crucible with Killing Wind or Zen Moment and Eye of the Storm. Recommended MW: Handling.|tags:pvp
+dimwishlist:item=1216130969&perks=839105230,1561002382,2450788523,699525795
+dimwishlist:item=1216130969&perks=839105230,1561002382,2387244414,699525795
+
+// Gridskipper
+//notes:Arrowhead Brake plus a Counterbalance mod will get you 100 recoil (85 if you use Icarus Grip). High-cal for flinch, Moving Target (for 90 total aim assist) or Killing Wind, and Frenzy or Snapshot. Recommended MW: Range or Handling.|tags:pvp
+dimwishlist:item=1621558458&perks=839105230,1561002382,588594999,4104185692
+dimwishlist:item=1621558458&perks=839105230,1561002382,588594999,957782887
+dimwishlist:item=1621558458&perks=839105230,1561002382,2450788523,4104185692
+
