@@ -36,3 +36,29 @@ dimwishlist:item=534775659&perks=1840239774,3868766766,1645158859,1799762209
 //notes:Feeding Frenzy and Reservoir Burst are a lot of fun! Recommended MW: Handling or Reload.|tags:pve
 dimwishlist:item=534775659&perks=839105230,3868766766,2779035018,1427256713
 dimwishlist:item=534775659&perks=1840239774,3868766766,2779035018,1427256713
+
+// Sacred Provenance
+//notes:The classic pairing of Rapid Hit and Kill Clip. Adding Arrowhead Brake for 100 recoil and High-Cal for enemy flinch. Recommended MW: Handling.|tags:pvp
+dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,1015611457
+
+// Succession
+//notes:Considering this a boss damage weapon for the most part, so I'm looking for Reconstruction / Vorpal exclusively. Recommended MW: Handling or Reload.|tags:pve
+dimwishlist:item=2990047042&perks=839105230,106909392,1523832109,1546637391
+dimwishlist:item=2990047042&perks=1840239774,106909392,1523832109,1546637391
+
+// Sojourner's Tale
+//notes:Boss DPS machine, especially for Templar in VoG where you are typically surrounded by enemies. Put on Surrounded Spec mod and you will get a 40% bonus to all damage. Recommended MW: Range.|tags:pve
+dimwishlist:item=599895591&perks=202670084,791862061,3300816228,3708227201,2697220197
+
+// Truthteller
+//notes:Where would I be without my blinding Truthteller? Probably selling used cars. Blinding, Auto-Loading, Disruption Break is the chef's kiss of Truthtellers. Just want launcher barrels with no negative effect. Recommended MW: Velocity.|tags:pve
+dimwishlist:item=1946491241&perks=3525010810,3032599245,3300816228,1683379515
+dimwishlist:item=1946491241&perks=3798852852,3032599245,3300816228,1683379515
+dimwishlist:item=1946491241&perks=1441682018,3032599245,3300816228,1683379515
+dimwishlist:item=1946491241&perks=3809316345,3032599245,3300816228,1683379515
+
+//notes:This roll probably makes me think I'm better at using grenade launchers than I really am. Shhh... don't tell anyone. Countermass keeps things consistent. Recommended MW: Velocity.|tags:pvp
+dimwishlist:item=1946491241&perks=3809316345,409831596,3300816228,1683379515
+dimwishlist:item=1946491241&perks=3525010810,409831596,3300816228,1683379515
+dimwishlist:item=1946491241&perks=3798852852,409831596,3300816228,1683379515
+dimwishlist:item=1946491241&perks=1441682018,409831596,3300816228,1683379515
