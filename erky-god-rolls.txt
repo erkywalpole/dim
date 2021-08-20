@@ -17,6 +17,10 @@ dimwishlist:item=1621558458&perks=839105230,1561002382,2450788523,4104185692
 dimwishlist:item=852228780&perks=839105230,1087426260,2284787283,1546637391
 dimwishlist:item=852228780&perks=839105230,2420895100,2284787283,1546637391
 
+//notes:Not much of a sniper at the moment, so I'll take all the help I can get. Explosive Payload or Vorpal will help me out with damage, Snapshot for those snappy ADS times, Accurized Rounds for a smidge more range, Fluted Barrel for that extra handling. Recommended MW: Handling or Range.|tags:pvp
+dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,3038247973
+dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,1546637391
+
 // Chroma Rush
 //notes:Subsistence + Rampage + 720 auto rifle makes my heart sing, uh… songs about death! Mag extending perks because I don't ever want to have to reload. Recommended MW: Range or Handling.|tags:pve
 dimwishlist:item=1119734784&perks=839105230,1087426260,1820235745,3425386926
