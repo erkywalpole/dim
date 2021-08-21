@@ -1,4 +1,4 @@
-title:Erky’s DIM God Rolls Wishlist.
+title:Erky’s God Rolls DIM Wishlist.
 description:Very select list of weapon rolls that I consider to be god rolls.
 
 // Cold Denial
@@ -7,17 +7,19 @@ dimwishlist:item=1216130969&perks=839105230,1561002382,2450788523,699525795
 dimwishlist:item=1216130969&perks=839105230,1561002382,2387244414,699525795
 
 // Gridskipper
-//notes:Arrowhead Brake plus a Counterbalance mod will get you 100 recoil (85 if you use Icarus Grip). High-cal for flinch, Moving Target (for 90 total aim assist) or Killing Wind, and Frenzy or Snapshot. Recommended MW: Range or Handling.|tags:pvp
+//notes:Arrowhead Brake plus a Counterbalance mod will get you 100 recoil (85 if you opt for Icarus Grip instead). High-cal for flinch, Moving Target (for 90 total aim assist) or Killing Wind, and Frenzy or Snapshot. Recommended MW: Range or Handling.|tags:pvp
 dimwishlist:item=1621558458&perks=839105230,1561002382,588594999,4104185692
 dimwishlist:item=1621558458&perks=839105230,1561002382,588594999,957782887
 dimwishlist:item=1621558458&perks=839105230,1561002382,2450788523,4104185692
+dimwishlist:item=1621558458&perks=839105230,1561002382,2450788523,957782887
+
 
 // Uzume RR4 (Adept)
 //notes:Getting the recoil up to 100 and increasing the magazine size as much as possible so Clown Cartridge can get more in the mag. Recommended MW: Handling or Reload.|tags:pve
 dimwishlist:item=852228780&perks=839105230,1087426260,2284787283,1546637391
 dimwishlist:item=852228780&perks=839105230,2420895100,2284787283,1546637391
 
-//notes:Not much of a sniper at the moment, so I'll take all the help I can get. Explosive Payload or Vorpal will help me out with damage, Snapshot for those snappy ADS times, Accurized Rounds for a smidge more range, Fluted Barrel for that extra handling. Recommended MW: Handling or Range.|tags:pvp
+//notes:I am not much of a sniper at the moment, so I'll take all the help I can get. Explosive Payload or Vorpal will help me out with damage, Snapshot for those snappy ADS times, Accurized Rounds for a smidge more range, Fluted Barrel for that extra handling. Recommended MW: Handling or Range.|tags:pvp
 dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,3038247973
 dimwishlist:item=852228780&perks=1840239774,3142289711,957782887,1546637391
 
@@ -66,3 +68,47 @@ dimwishlist:item=1946491241&perks=3809316345,409831596,3300816228,1683379515
 dimwishlist:item=1946491241&perks=3525010810,409831596,3300816228,1683379515
 dimwishlist:item=1946491241&perks=3798852852,409831596,3300816228,1683379515
 dimwishlist:item=1946491241&perks=1441682018,409831596,3300816228,1683379515
+
+// Empty Vessel
+//notes:Standard grenade launcher wishlist: Blinding Grenades (IMO, Spike Grenades is nice to have, but not a deal-breaker), Auto-Loading Holster, and… well, the fourth slot is where some variety comes in: Disruption Break, Demolitionist, Vorpal, or One for All would be fantastic. Pretty lax on the launcher barrels because there are so many potential rolls on this weapon, and being flexible on those broadens the field of what's a keeper. Recommended MW: Velocity.|tags:pve
+dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,1683379515
+dimwishlist:item=4255586669&perks=3798852852,3032599245,3300816228,1683379515
+dimwishlist:item=4255586669&perks=1441682018,3032599245,3300816228,1683379515
+dimwishlist:item=4255586669&perks=3809316345,3032599245,3300816228,1683379515
+dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,3523296417
+dimwishlist:item=4255586669&perks=3798852852,3032599245,3300816228,3523296417
+dimwishlist:item=4255586669&perks=1441682018,3032599245,3300816228,3523296417
+dimwishlist:item=4255586669&perks=3809316345,3032599245,3300816228,3523296417
+dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,1546637391
+dimwishlist:item=4255586669&perks=3798852852,3032599245,3300816228,1546637391
+dimwishlist:item=4255586669&perks=1441682018,3032599245,3300816228,1546637391
+dimwishlist:item=4255586669&perks=3809316345,3032599245,3300816228,1546637391
+dimwishlist:item=4255586669&perks=3525010810,3032599245,3300816228,4049631843
+dimwishlist:item=4255586669&perks=3798852852,3032599245,3300816228,4049631843
+dimwishlist:item=4255586669&perks=1441682018,3032599245,3300816228,4049631843
+dimwishlist:item=4255586669&perks=3809316345,3032599245,3300816228,4049631843
+
+//notes:This roll probably makes me think I'm better at using grenade launchers than I really am. Shhh... don't tell anyone. Countermass keeps things consistent. Recommended MW: Velocity.|tags:pvp
+dimwishlist:item=4255586669&perks=3809316345,409831596,3300816228,1683379515
+dimwishlist:item=4255586669&perks=3525010810,409831596,3300816228,1683379515
+dimwishlist:item=4255586669&perks=3798852852,409831596,3300816228,1683379515
+dimwishlist:item=4255586669&perks=1441682018,409831596,3300816228,1683379515
+
+// Royal Entry
+//notes:Massive pool of perks on this one, but I'm only interested in one combination at this point: Impact Casing, Auto-Loading Holster, and Lasting Impression. Recommended MW: Reload or Velocity.|tags:pve
+dimwishlist:item=2448907086&perks=3525010810,3796465595,3300816228,3927722942
+dimwishlist:item=2448907086&perks=1441682018,3796465595,3300816228,3927722942
+dimwishlist:item=2448907086&perks=3798852852,3796465595,3300816228,3927722942
+dimwishlist:item=2448907086&perks=3809316345,3796465595,3300816228,3927722942
+
+// Corrective Measure (Timelost)
+//notes:Very interested in a minor- and major-enemy-mowing machine gun. Appended Mag helps us delay reloading as much as possible while not making the inevitable reload extra painful. Recommended MW: Stability or Handling.|tags:pve
+dimwishlist:item=3796510434&perks=839105230,1087426260,1820235745,4049631843
+
+// Hezen Vengeance (Timelost)
+//notes:I just want a Lasting Impression rocket that can track. Is that too much to ask for? Recommended MW: Velocity.|tags:pve
+dimwishlist:item=1921159786&perks=3525010810,3796465595,3977735242,3927722942
+dimwishlist:item=1921159786&perks=1441682018,3796465595,3977735242,3927722942
+dimwishlist:item=1921159786&perks=3798852852,3796465595,3977735242,3927722942
+dimwishlist:item=1921159786&perks=3809316345,3796465595,3977735242,3927722942
+
