@@ -7,12 +7,16 @@ dimwishlist:item=1216130969&perks=839105230,1561002382,2450788523,699525795
 dimwishlist:item=1216130969&perks=839105230,1561002382,2387244414,699525795
 
 // Gridskipper
-//notes:Arrowhead Brake plus a Counterbalance mod will get you 100 recoil (85 if you opt for Icarus Grip instead). High-cal for flinch, Moving Target (for 90 total aim assist) or Killing Wind, and Frenzy or Snapshot. Recommended MW: Range or Handling.|tags:pvp
+//notes:Arrowhead Brake plus a Counterbalance mod will get you 100 recoil (85 if you opt for Icarus Grip instead). High-cal for flinch, Moving Target (for 90 total aim assist) or Killing Wind, and Snapshot or Frenzy (though it’s tough to proc in Crucible). Recommended MW: Range or Handling.|tags:pvp
 dimwishlist:item=1621558458&perks=839105230,1561002382,588594999,4104185692
 dimwishlist:item=1621558458&perks=839105230,1561002382,588594999,957782887
 dimwishlist:item=1621558458&perks=839105230,1561002382,2450788523,4104185692
 dimwishlist:item=1621558458&perks=839105230,1561002382,2450788523,957782887
 
+//notes:Arrowhead Brake plus a Counterbalance mod will get you 100 recoil (85 if you opt for Icarus Grip instead). High-cal for flinch, and Tunnel Vision/MKC or Heating Up/High-Impact Reserves or possibly Frenzy (though it’s tough to proc in Crucible). Recommended MW: Range or Handling.|tags:pvp
+dimwishlist:item=1621558458&perks=839105230,1561002382,2946784966,2458213969
+dimwishlist:item=1621558458&perks=839105230,1561002382,1570042021,2213355989
+dimwishlist:item=1621558458&perks=839105230,1561002382,1570042021,4104185692
 
 // Uzume RR4 (Adept)
 //notes:Getting the recoil up to 100 and increasing the magazine size as much as possible so Clown Cartridge can get more in the mag. Recommended MW: Handling or Reload.|tags:pve
@@ -112,3 +116,26 @@ dimwishlist:item=1921159786&perks=1441682018,3796465595,3977735242,3927722942
 dimwishlist:item=1921159786&perks=3798852852,3796465595,3977735242,3927722942
 dimwishlist:item=1921159786&perks=3809316345,3796465595,3977735242,3927722942
 
+// Peacebond
+//notes:I’m curious about a max range roll of Peacebond, though it only adds a little less than 4 meters.|tags:pvp
+dimwishlist:item=829330711&perks=202670084,3142289711,2846385770,591790007
+
+// Messenger
+//notes:Not sure if I could ever get this lucky, but damn would it be nice to have 100 recoil (w/counter-balance), High-Caliber Rounds, Rapid Hit, and Desperado.|tags:pvp
+dimwishlist:item=3658188704&perks=839105230,1561002382,247725512,3047969693
+
+// Messenger (Adept)
+//notes:Not sure if I could ever get this lucky, but damn would it be nice to have 100 recoil (w/counter-balance), High-Caliber Rounds, Rapid Hit, and Desperado.|tags:pvp
+dimwishlist:item=1173780905&perks=839105230,1561002382,247725512,3047969693
+
+// Reed’s Regret
+//notes:Triple-Tap + Enhanced Battery + Backup Mag will result in three free shots in a full magazine, provided they’re all crits (7-3+1 = 5, 5-3+1 = 3, 3-3+1 = 1, then shoot the last shot and reload).|tags:pve
+dimwishlist:item=1399243961&perks=839105230,2680121939,3400784728,1546637391
+
+//Reed’s Regret (Adept)
+//notes:Triple-Tap + Enhanced Battery + Backup Mag will result in three free shots in a full magazine, provided they’re all crits (7-3+1 = 5, 5-3+1 = 3, 3-3+1 = 1, then shoot the last shot and reload).|tags:pve
+dimwishlist:item=2475355656&perks=839105230,2680121939,3400784728,1546637391
+
+// Darkest Before
+//notes:Not as much worried about range on this one as I am about getting that kick and Handling under control. Slideshot is probably the best perk on the left, and Rampage on the right.
+dimwishlist:item=2481758391&perks=839105230,1561002382,3161816588,3425386926
