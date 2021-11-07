@@ -1,4 +1,4 @@
-title:Erky’s God Rolls DIM Wishlist.
+title:Erky’s God Rolls DIM Wishlist. 
 description:Very select list of weapon rolls that I consider to be god rolls.
 
 // Cold Denial
@@ -151,5 +151,9 @@ dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,1774574192
 dimwishlist:item=3743729616&perks=1840239774,3142289711,588594999,957782887
 
 // Fractethyst
-//notets:It's not the best shotgun out there, but it can roll with one of the elite perk combos in the game: full choke, accurized rounds, quickdraw, and opening shot. Recommended MW: Range.|tags:pvp
+//notes:It's not the best shotgun out there, but it can roll with one of the elite perk combos in the game: full choke, accurized rounds, quickdraw, and opening shot. Recommended MW: Range.|tags:pvp
 dimwishlist:item=3184681056&perks=1047830412,3142289711,706527188,47981717
+
+// Wolftone Draw
+//notes:Want to get that draw time as low as possible while maintaining the high precision of this archetype. It’ll be at the cost of stability, but that’s OK because I don’t plan to hold my draws for that long. Recommended MW: Draw Time or Accuracy.|tags:pve 
+dimwishlist:item=3472875143&perks=2801223209,3429800428,201365942,4104185692
