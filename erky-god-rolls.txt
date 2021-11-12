@@ -18,6 +18,17 @@ dimwishlist:item=1621558458&perks=839105230,1561002382,2946784966,2458213969
 dimwishlist:item=1621558458&perks=839105230,1561002382,1570042021,2213355989
 dimwishlist:item=1621558458&perks=839105230,1561002382,1570042021,4104185692
 
+//notes:This pulse really could use increased handling, which means Fluted Barrel, Arrowhead Brake, or Corkscrew Rifling. High-Cal is a must. Heating Up/Snapshot or Tunnel Vision/Multi-Kill Clip are my preferred trait combos, but I'm OK with Moving Target in a pinch. Recommended MW: Range.|tags:pvp
+dimwishlist:item=1621558458&perks=1840239774,1561002382,1570042021,957782887
+dimwishlist:item=1621558458&perks=839105230,1561002382,1570042021,957782887
+dimwishlist:item=1621558458&perks=4090651448,1561002382,1570042021,957782887
+dimwishlist:item=1621558458&perks=1840239774,1561002382,2946784966,2458213969
+dimwishlist:item=1621558458&perks=839105230,1561002382,2946784966,2458213969
+dimwishlist:item=1621558458&perks=4090651448,1561002382,2946784966,2458213969
+dimwishlist:item=1621558458&perks=1840239774,1561002382,588594999,957782887
+dimwishlist:item=1621558458&perks=839105230,1561002382,588594999,957782887
+dimwishlist:item=1621558458&perks=4090651448,1561002382,588594999,957782887
+
 // Uzume RR4 (Adept)
 //notes:Getting the recoil up to 100 and increasing the magazine size as much as possible so Clown Cartridge can get more in the mag. Recommended MW: Handling or Reload.|tags:pve
 dimwishlist:item=852228780&perks=839105230,1087426260,2284787283,1546637391
@@ -154,7 +165,7 @@ dimwishlist:item=1173780905&perks=839105230,1561002382,247725512,3047969693
 //notes:Triple-Tap + Enhanced Battery + Backup Mag will result in three free shots in a full magazine, provided they’re all crits (7-3+1 = 5, 5-3+1 = 3, 3-3+1 = 1, then shoot the last shot and reload).|tags:pve
 dimwishlist:item=1399243961&perks=839105230,2680121939,3400784728,1546637391
 
-//Reed’s Regret (Adept)
+// Reed’s Regret (Adept)
 //notes:Triple-Tap + Enhanced Battery + Backup Mag will result in three free shots in a full magazine, provided they’re all crits (7-3+1 = 5, 5-3+1 = 3, 3-3+1 = 1, then shoot the last shot and reload).|tags:pve
 dimwishlist:item=2475355656&perks=839105230,2680121939,3400784728,1546637391
 
@@ -189,13 +200,13 @@ dimwishlist:item=3654674561&perks=1840239774,1561002382,1546637391,990298390
 dimwishlist:item=3654674561&perks=4090651448,1561002382,1546637391,3465198467
 
 // Sacred Provenance
-//notes:
+//notes:Last of the Aggressive Burst archetype that hasn't been sunset. These have built-in flinch, and I am hoping that High-Caliber Rounds will add to it. If you don't get Arrowhead Brake, you're going to want to slap a counterbalance mod in there. Really just want Rapid Hit and Kill Clip in the trait columns. Recommended MW: Handling or Reload.|tags:pve,pvp
 dimwishlist:item=2408405461&perks=1840239774,1561002382,247725512,1015611457
 dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,1015611457
 dimwishlist:item=2408405461&perks=1840239774,1885400500,247725512,1015611457
 dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457
 
-//The Last Breath
+// The Last Breath
 //notes:One of just a few weapons that can roll with Demolitionist and Adrenaline Junkie. Recommended MW: Reload.|tags:pve
 dimwishlist:item=507038823&perks=1840239774,1885400500,3523296417,11612903
 dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,11612903
@@ -207,3 +218,9 @@ dimwishlist:item=507038823&perks=1840239774,3230963543,3523296417,11612903
 dimwishlist:item=507038823&perks=839105230,3230963543,3523296417,11612903
 dimwishlist:item=507038823&perks=4090651448,3230963543,3523296417,11612903
 
+// Servant Leader
+//notes:This puppy doesn't need any more range, so we are putting everything we can into handling and stability. Looking for trait perks that just require hits, not kills. It's statistically unlikely that I'll ever get any of these rolls, but I'll hop into Gambit with my fingers crossed anyway. Recommended MW: Handling or Reload.|tags:pve
+dimwishlist:item=1107446438&perks=1840239774,106909392,1354429876,4049631843
+dimwishlist:item=1107446438&perks=1840239774,106909392,247725512,4049631843
+dimwishlist:item=1107446438&perks=1840239774,106909392,1354429876,4104185692
+dimwishlist:item=1107446438&perks=1840239774,106909392,247725512,4104185692
