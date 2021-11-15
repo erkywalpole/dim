@@ -195,9 +195,14 @@ dimwishlist:item=3472875143&perks=2801223209,3429800428,201365942,4104185692
 
 // Dead Man’s Tale
 //notes:One of my favorite guns of all time. After High-Caliber Rounds and Vorpal, which IMO are a must, I’m mainly concerned with keeping Handling and Stability high.|tags:pvp
-dimwishlist:item=3654674561&perks=1392496348,1561002382,1546637391,1067908860
 dimwishlist:item=3654674561&perks=1840239774,1561002382,1546637391,990298390
+dimwishlist:item=3654674561&perks=1840239774,1561002382,1546637391,1067908860
+dimwishlist:item=3654674561&perks=1840239774,1561002382,1546637391,3465198467
+dimwishlist:item=3654674561&perks=1392496348,1561002382,1546637391,1067908860
+dimwishlist:item=3654674561&perks=1392496348,1561002382,1546637391,3465198467
 dimwishlist:item=3654674561&perks=4090651448,1561002382,1546637391,3465198467
+dimwishlist:item=3654674561&perks=1482024992,1561002382,1546637391,1067908860
+dimwishlist:item=3654674561&perks=3661387068,1561002382,1546637391,1067908860
 
 // Sacred Provenance
 //notes:Last of the Aggressive Burst archetype that hasn't been sunset. These have built-in flinch, and I am hoping that High-Caliber Rounds will add to it. If you don't get Arrowhead Brake, you're going to want to slap a counterbalance mod in there. Really just want Rapid Hit and Kill Clip in the trait columns. Recommended MW: Handling or Reload.|tags:pve,pvp
