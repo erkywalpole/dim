@@ -175,12 +175,18 @@ dimwishlist:item=829330711&perks=1840239774,106909392,1820235745,438098033
 dimwishlist:item=829330711&perks=1840239774,1087426260,1820235745,438098033
 
 // Messenger
-//notes:Not sure if I could ever get this lucky, but damn would it be nice to have 100 recoil (w/counter-balance), High-Caliber Rounds, Rapid Hit, and Desperado.|tags:pvp
+//notes:Not sure if I could ever get this lucky, but damn would it be nice to have 100 recoil (w/counter-balance) or a lot of extra Handling, High-Caliber Rounds, Rapid Hit, and Desperado. Recommended MW: Handling or Range.|tags:pvp
 dimwishlist:item=3658188704&perks=839105230,1561002382,247725512,3047969693
+dimwishlist:item=3658188704&perks=1840239774,1561002382,247725512,3047969693
+dimwishlist:item=3658188704&perks=839105230,1561002382,247725512,1015611457
+dimwishlist:item=3658188704&perks=1840239774,1561002382,247725512,1015611457
 
 // Messenger (Adept)
-//notes:Not sure if I could ever get this lucky, but damn would it be nice to have 100 recoil (w/counter-balance), High-Caliber Rounds, Rapid Hit, and Desperado.|tags:pvp
+//notes:Not sure if I could ever get this lucky, but damn would it be nice to have 100 recoil (w/counter-balance) or a lot of extra Handling, High-Caliber Rounds, Rapid Hit, and Desperado. Recommended MW: Handling or Range.|tags:pvp
 dimwishlist:item=1173780905&perks=839105230,1561002382,247725512,3047969693
+dimwishlist:item=1173780905&perks=1840239774,1561002382,247725512,3047969693
+dimwishlist:item=1173780905&perks=839105230,1561002382,247725512,1015611457
+dimwishlist:item=1173780905&perks=1840239774,1561002382,247725512,1015611457
 
 // Reed’s Regret
 //notes:Triple-Tap + Enhanced Battery + Backup Mag will result in three free shots in a full magazine, provided they’re all crits (7-3+1 = 5, 5-3+1 = 3, 3-3+1 = 1, then shoot the last shot and reload).|tags:pve
