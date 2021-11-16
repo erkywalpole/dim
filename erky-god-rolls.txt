@@ -58,9 +58,17 @@ dimwishlist:item=534775659&perks=1840239774,3868766766,1645158859,1799762209
 dimwishlist:item=534775659&perks=839105230,3868766766,2779035018,1427256713
 dimwishlist:item=534775659&perks=1840239774,3868766766,2779035018,1427256713
 
-// Hung Jury
+// Hung Jury (Adept)
 //notes:Curious about how a Rapid Hit / One for All roll would perform in high-end PVE content. Recommended MW: Handling or Reload.|tags:pve
 dimwishlist:item=681067419&perks=1840239774,106909392,247725512,4049631843
+
+// The Palindrome (Adept)
+//notes:Fluted, High-Cal, Quickdraw, and Rangefinder. That's my PVP god roll right there. A Range masterwork and Adept Icarus Grip put the big three (Range, Stability, Handling) at 73, 69, and 71. Nice. Recommended MW: Range.|tags:pvp
+dimwishlist:item=1481892490&perks=1840239774,1561002382,706527188,2846385770
+
+// The Hothead (Adept)
+//notes:Not super into this rocket launcher because of its sights, but if I got this roll, I'd be pretty happy. Explosive Light gives it a 25% damage boost and sets the blast radius to 100. Recommended MW: Reload.|tags:pve
+dimwishlist:item=1866778462&perks=3525010810,3796465595,2869569095,3194351027
 
 // Sacred Provenance
 //notes:The classic pairing of Rapid Hit and Kill Clip. Adding Arrowhead Brake for 100 recoil and High-Cal for enemy flinch. Recommended MW: Handling.|tags:pvp
