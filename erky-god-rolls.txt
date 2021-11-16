@@ -131,6 +131,14 @@ dimwishlist:item=1921159786&perks=1441682018,3796465595,3977735242,3927722942
 dimwishlist:item=1921159786&perks=3798852852,3796465595,3977735242,3927722942
 dimwishlist:item=1921159786&perks=3809316345,3796465595,3977735242,3927722942
 
+// Fatebringer (Timelost)
+//notes:Gotta get that handling as high as we can, then focus on range. Explosive Payload is guaranteed :hype:, so we're good with anything else in the first trait column, and I really want Eye of the Storm or Opening Shot (in that order) in the second trait column. Recommended MW: Range.|tags:pvp
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,699525795
+dimwishlist:item=1216319404&perks=1840239774,3142289711,3038247973,47981717
+
+//notes:For high-end PVE content, I'm looking at Rewind Rounds and Frenzy. Going to focus on Handling and Reload perks elsewhere. Recommended MW: Reload.|tags:pve
+dimwishlist:item=1216319404&perks=1840239774,106909392,3418782618,4104185692
+
 // Peacebond
 //notes:I’m curious about a max range roll of Peacebond, though it only adds a little less than 4 meters.|tags:pvp
 dimwishlist:item=829330711&perks=202670084,3142289711,2846385770,591790007
@@ -179,11 +187,22 @@ dimwishlist:item=2481758391&perks=839105230,1561002382,3161816588,3425386926
 dimwishlist:item=2481758391&perks=202670084,1561002382,3436462433,3425386926
 
 // Judgment
-//notes:Looking for a roll here to complement grenade-based builds in PVE.|tags:pve
+//notes:Looking for a roll here to complement grenade-based builds in PVE. Demolitionist and Adrenaline Junkie FTW, since it seems like Osmosis doesn't work with Verity's Brow. Recommended MW: Reload.|tags:pve
 dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,11612903
-dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,1774574192
 dimwishlist:item=1476654960&perks=1926090095,106909392,3523296417,11612903
-dimwishlist:item=1476654960&perks=1926090095,106909392,3523296417,1774574192
+dimwishlist:item=1476654960&perks=1926090092,106909392,3523296417,11612903
+
+// The Last Breath
+//notes:One of just a few weapons that can roll with Demolitionist and Adrenaline Junkie. Recommended MW: Reload.|tags:pve
+dimwishlist:item=507038823&perks=1840239774,1885400500,3523296417,11612903
+dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,11612903
+dimwishlist:item=507038823&perks=4090651448,1885400500,3523296417,11612903
+dimwishlist:item=507038823&perks=1840239774,1087426260,3523296417,11612903
+dimwishlist:item=507038823&perks=839105230,1087426260,3523296417,11612903
+dimwishlist:item=507038823&perks=4090651448,1087426260,3523296417,11612903
+dimwishlist:item=507038823&perks=1840239774,3230963543,3523296417,11612903
+dimwishlist:item=507038823&perks=839105230,3230963543,3523296417,11612903
+dimwishlist:item=507038823&perks=4090651448,3230963543,3523296417,11612903
 
 // Shepherd's Watch
 //notes:Just going for a solid roll here since this one is a world drop in Season 15, and could end up yielding a very nice sniper rifle. Recommended MW: Range or Handling.|tags:pvp
@@ -224,18 +243,6 @@ dimwishlist:item=2408405461&perks=1840239774,1561002382,247725512,1015611457
 dimwishlist:item=2408405461&perks=839105230,1561002382,247725512,1015611457
 dimwishlist:item=2408405461&perks=1840239774,1885400500,247725512,1015611457
 dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457
-
-// The Last Breath
-//notes:One of just a few weapons that can roll with Demolitionist and Adrenaline Junkie. Recommended MW: Reload.|tags:pve
-dimwishlist:item=507038823&perks=1840239774,1885400500,3523296417,11612903
-dimwishlist:item=507038823&perks=839105230,1885400500,3523296417,11612903
-dimwishlist:item=507038823&perks=4090651448,1885400500,3523296417,11612903
-dimwishlist:item=507038823&perks=1840239774,1087426260,3523296417,11612903
-dimwishlist:item=507038823&perks=839105230,1087426260,3523296417,11612903
-dimwishlist:item=507038823&perks=4090651448,1087426260,3523296417,11612903
-dimwishlist:item=507038823&perks=1840239774,3230963543,3523296417,11612903
-dimwishlist:item=507038823&perks=839105230,3230963543,3523296417,11612903
-dimwishlist:item=507038823&perks=4090651448,3230963543,3523296417,11612903
 
 // Servant Leader
 //notes:This puppy doesn't need any more range, so we are putting everything we can into handling and stability. Looking for trait perks that just require hits, not kills. It's statistically unlikely that I'll ever get any of these rolls, but I'll hop into Gambit with my fingers crossed anyway. Recommended MW: Handling or Reload.|tags:pve
