@@ -222,6 +222,9 @@ dimwishlist:item=507038823&perks=4090651448,3230963543,3523296417,11612903
 // Shepherd's Watch
 //notes:Just going for a solid roll here since this one is a world drop in Season 15, and could end up yielding a very nice sniper rifle. Recommended MW: Range or Handling.|tags:pvp
 dimwishlist:item=3743729616&perks=1840239774,3142289711,588594999,957782887
+dimwishlist:item=3743729616&perks=1840239774,3142289711,588594999,47981717
+dimwishlist:item=3743729616&perks=1840239774,3142289711,1645158859,47981717
+dimwishlist:item=3743729616&perks=1840239774,3142289711,1645158859,957782887
 
 // Fractethyst
 //notes:It's not the best shotgun out there, but it can roll with one of the elite perk combos in the game: full choke, accurized rounds, quickdraw, and opening shot. Recommended MW: Range.|tags:pvp
@@ -260,12 +263,21 @@ dimwishlist:item=2408405461&perks=1840239774,1885400500,247725512,1015611457
 dimwishlist:item=2408405461&perks=839105230,1885400500,247725512,1015611457
 
 // Servant Leader
-//notes:This puppy doesn't need any more range, so we are putting everything we can into handling and stability. Looking for trait perks that just require hits, not kills. It's statistically unlikely that I'll ever get any of these rolls, but I'll hop into Gambit with my fingers crossed anyway. Recommended MW: Handling or Reload.|tags:pve
+//notes:This puppy doesn't need any more range, so we are putting everything we can into handling and stability. Looking for trait perks that just require hits, not kills. It's statistically unlikely that I'll ever get any of these rolls, but I'll hop into Gambit with my fingers crossed anyway. Recommended MW: Reload.|tags:pve
 dimwishlist:item=1107446438&perks=1840239774,106909392,1354429876,4049631843
 dimwishlist:item=1107446438&perks=1840239774,106909392,247725512,4049631843
 dimwishlist:item=1107446438&perks=1840239774,106909392,1354429876,4104185692
 dimwishlist:item=1107446438&perks=1840239774,106909392,247725512,4104185692
+dimwishlist:item=1107446438&perks=1840239774,106909392,2946784966,1015611457
+dimwishlist:item=1107446438&perks=1840239774,106909392,247725512,1015611457
 
 // Legal Action II
-//notes: looking for a PVE counterpart to The Messenger that I can use in endgame content. Recommended MW: Reload.|tags:pve
+//notes:Looking for a PVE counterpart to The Messenger that I can use in endgame content. Love Frenzy in that role, and Heating Up is a nice bonus right after a kill. Recommended MW: Reload.|tags:pve
 dimwishlist:item=3409645497&perks=839105230,106909392,1570042021,4104185692
+
+// Cartesian Coordinate
+//notes:For PVP rolls, trying to keep that stability up for a tighter bolt burst. Recommended MW: Stability.|tags:pvp
+dimwishlist:item=2481881293&perks=2405638015,3868766766,1645158859,2213355989
+
+//notes:A close-range DPS monster in Season 15. Recommended MW: Charge Time or Reload.|tags:pve
+dimwishlist:item=2481881293&perks=2405638015,689005463,2039302152,1546637391
