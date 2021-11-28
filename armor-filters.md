@@ -53,8 +53,9 @@ not:classitem
 (not:warlock basestat:discipline:>=18 basestat:custom:>=39) or 
 (not:titan basestat:strength:>=18 basestat:custom:>=39) or
 (not:titan basestat:resilience:>=18 basestat:custom:>=39) or 
-basestat:total:>=68 or 
-basestat:custom:>=50
+(basestat:intellect:>=28 basestat:custom:>=39) or
+(basestat:custom:>=50 basestat:total:>=62) or
+basestat:total:>=68
 )
 ) or
 is:blue
