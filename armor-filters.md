@@ -41,7 +41,7 @@ The great thing about this approach (and the upcoming Tier 3 filter) is it’s e
 
 And finally, there’s **Tier 3**. You’ve been playing for a long while. You have some great armor sets. You only want to replace them with even more amazing pieces. This tier is for your god rolled armor pieces and for armor pieces that will contribute 25+ points to certain stats, giving you a chance at 100 without any mods.
 
-`is:armor -is:maxpower -tag:keep -tag:archive -tag:favorite -tag:infuse not:inloadout not:masterwork
+`is:armor -tag:keep -tag:archive -tag:favorite -tag:infuse not:inloadout not:masterwork
 (
 (
 not:classitem
