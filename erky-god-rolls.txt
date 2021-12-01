@@ -66,6 +66,12 @@ dimwishlist:item=681067419&perks=1840239774,106909392,247725512,4049631843
 //notes:Fluted, High-Cal, Quickdraw, and Rangefinder. That's my PVP god roll right there. A Range masterwork and Adept Icarus Grip put the big three (Range, Stability, Handling) at 73, 69, and 71. Nice. Recommended MW: Range.|tags:pvp
 dimwishlist:item=1481892490&perks=1840239774,1561002382,706527188,2846385770
 
+//notes:Although The Palindrome is mostly considered a PVP weapon, it can roll with Subsistence / One for All, which is a very interesting combination. It is the only 140 hand cannon that can roll with that combination. Recommended MW: Reload.|tags:pve
+dimwishlist:item=1481892490&perks=1840239774,1968497646,1820235745,4049631843
+dimwishlist:item=1481892490&perks=4090651448,1968497646,1820235745,4049631843
+dimwishlist:item=1481892490&perks=1840239774,1087426260,1820235745,4049631843
+dimwishlist:item=1481892490&perks=4090651448,1087426260,1820235745,4049631843
+
 // The Hothead (Adept)
 //notes:Not super into this rocket launcher because of its sights, but if I got this roll, I'd be pretty happy. Explosive Light gives it a 25% damage boost and sets the blast radius to 100. Recommended MW: Reload.|tags:pve
 dimwishlist:item=1866778462&perks=3525010810,3796465595,2869569095,3194351027
@@ -334,3 +340,8 @@ dimwishlist:item=4248569242&perks=1840239774,791862061,1523832109,469285294
 dimwishlist:item=4248569242&perks=1840239774,106909392,1523832109,469285294
 dimwishlist:item=4248569242&perks=1840239774,791862061,3300816228,469285294
 dimwishlist:item=4248569242&perks=1840239774,106909392,3300816228,469285294
+
+// Vouchsafe
+//notes:Only lightweight scout in the Energy slot that can roll with Rapid Hit / Explosive Payload.  Recommended MW: Reload.|tags:pve
+dimwishlist:item=3242168339&perks=839105230,106909392,247725512,3038247973
+dimwishlist:item=3242168339&perks=1840239774,106909392,247725512,3038247973
