@@ -303,3 +303,21 @@ dimwishlist:item=2443900757&perks=4090651448,106909392,1820235745,1546637391
 // The Deicide
 //notes:Looking for a melee-oriented roll on this gun, especially with the 15% PVE buff to pellet shotguns that arrived at the mid-point of Season 15. Recommended MW: Reload.|tags:pve
 dimwishlist:item=217140611&perks=1300023272,106909392,1631667848,2679249093
+
+// Scathelocke
+//notes:Just a solid PVE auto rifle. Don't need to worry about range because the zoom is 20, which is 3 more than all other adaptive autos. Recoil direction is a hard 60, so you need something to straighten that out, Arrowhead Brake or Heating Up. Rampage and Adrenaline Junkie are my favored damage buff plays. Recommended MW: Reload.|tags:pve
+dimwishlist:item=602618796&perks=1840239774,106909392,1570042021,3425386926
+dimwishlist:item=602618796&perks=839105230,106909392,1820235745,3425386926
+dimwishlist:item=602618796&perks=1840239774,106909392,1570042021,11612903
+dimwishlist:item=602618796&perks=839105230,106909392,1820235745,11612903
+
+// The Time-Worn Spire
+//notes:Surprisingly nice rapid-fire pulse *when* you put a counter-balance mod on it (to get recoil to 75). Looking for the "Red" scopes, High-Caliber Rounds, Moving Target, and... well, then it gets interesting. I wouldn't complain about Rampage in sixes, or Vorpal overall, but Iron Gaze is potentially something. The Range stat takes a big hit, but in practical terms, it's just a reduction by 4 meters. That's not nothing, but it gets you up to a whopping 100 aim assistance (or 99 without Moving Target), which I think could be pretty sweet. Recommended MW: Range.|tags:pvp
+dimwishlist:item=3593598010&perks=2405638015,1561002382,588594999,3425386926
+dimwishlist:item=3593598010&perks=2405638014,1561002382,588594999,3425386926
+dimwishlist:item=3593598010&perks=2405638015,1561002382,588594999,1546637391
+dimwishlist:item=3593598010&perks=2405638014,1561002382,588594999,1546637391
+dimwishlist:item=3593598010&perks=2405638015,1561002382,588594999,4152709778
+dimwishlist:item=3593598010&perks=2405638014,1561002382,588594999,4152709778
+dimwishlist:item=3593598010&perks=2405638015,1561002382,2779035018,4152709778
+dimwishlist:item=3593598010&perks=2405638014,1561002382,2779035018,4152709778
