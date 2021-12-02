@@ -213,6 +213,10 @@ dimwishlist:item=1476654960&perks=1926090094,106909392,3523296417,11612903
 dimwishlist:item=1476654960&perks=1926090095,106909392,3523296417,11612903
 dimwishlist:item=1476654960&perks=1926090092,106909392,3523296417,11612903
 
+//notes:The only 140 hand cannon that currently (Season 15) can roll with Moving Target / Opening Shot. The first shot gets 100 aim assist, 90 for each subsequent shot, but a single targeting mod would keep you at 100 the whole time. Recommended MW: Range.|tags:pvp
+dimwishlist:item=1476654960&perks=1926090094,3142289711,588594999,47981717
+dimwishlist:item=1476654960&perks=1926090095,3142289711,588594999,47981717
+
 // The Last Breath
 //notes:One of just a few weapons that can roll with Demolitionist and Adrenaline Junkie. Recommended MW: Reload.|tags:pve
 dimwishlist:item=507038823&perks=1840239774,1885400500,3523296417,11612903
@@ -342,6 +346,15 @@ dimwishlist:item=4248569242&perks=1840239774,791862061,3300816228,469285294
 dimwishlist:item=4248569242&perks=1840239774,106909392,3300816228,469285294
 
 // Vouchsafe
-//notes:Only lightweight scout in the Energy slot that can roll with Rapid Hit / Explosive Payload.  Recommended MW: Reload.|tags:pve
+//notes:Only lightweight scout in the Energy slot that can roll with Rapid Hit / Explosive Payload. Recommended MW: Reload.|tags:pve
 dimwishlist:item=3242168339&perks=839105230,106909392,247725512,3038247973
 dimwishlist:item=3242168339&perks=1840239774,106909392,247725512,3038247973
+
+// Biting Winds
+//notes:It's all about that Explosive Head plus anything to get that draw/reload time as short as possible. Recommended MW: Charge Time.|tags:pve
+dimwishlist:item=1621657423&perks=2801223209,3429800428,247725512,3365897133
+
+// Nation of Beasts
+//notes:One of just two 140 RPM hand cannons that can roll with Opening Shot / Explosive Payload as of Season 15. The Range stat isn't the best, but with the perfect roll, you can get 30 meters out of it. Recommended MW: Range.|tags:pvp
+dimwishlist:item=654370424&perks=1840239774,3142289711,47981717,3038247973
+dimwishlist:item=654370424&perks=4090651448,3142289711,47981717,3038247973
