@@ -282,8 +282,19 @@ dimwishlist:item=1107446438&perks=1840239774,106909392,2946784966,1015611457
 dimwishlist:item=1107446438&perks=1840239774,106909392,247725512,1015611457
 
 // Legal Action II
-//notes:Looking for a PVE counterpart to The Messenger that I can use in endgame content. Love Frenzy in that role, and Heating Up is a nice bonus right after a kill. Recommended MW: Reload.|tags:pve
+//notes:Looking for a PVE counterpart to The Messenger that I can use in endgame content. Love Frenzy in that role, and Heating Up is a nice bonus right after a kill. Opting for Arrowhead Brake so I don't have to slot a couterbalance mod. Recommended MW: Reload.|tags:pve
 dimwishlist:item=3409645497&perks=839105230,106909392,1570042021,4104185692
+dimwishlist:item=3409645497&perks=839105230,106909392,2779035018,4104185692
+dimwishlist:item=3409645497&perks=839105230,106909392,1570042021,11612903
+dimwishlist:item=3409645497&perks=839105230,106909392,2779035018,11612903
+
+//notes:I wasn't sure why I'd want a PVP roll for this over The Messenger until I noticed it has a whopping 22 zoom, compared to Messenger's 18. It'll never compete with Desperado, but that extra zoom does a lot to improve aim assist. Looking for Moving Target or Killing Wind in column 1, and column 2 is a toss up. Recommended MW: Range or Handling.|tags:pvp
+dimwishlist:item=3409645497&perks=1840239774,3142289711,588594999,3425386926
+dimwishlist:item=3409645497&perks=1840239774,3142289711,588594999,2726471870
+dimwishlist:item=3409645497&perks=1840239774,3142289711,588594999,11612903
+dimwishlist:item=3409645497&perks=1840239774,3142289711,2450788523,3425386926
+dimwishlist:item=3409645497&perks=1840239774,3142289711,2450788523,2726471870
+dimwishlist:item=3409645497&perks=1840239774,3142289711,2450788523,11612903
 
 // Cartesian Coordinate
 //notes:For PVP rolls, trying to keep that stability up for a tighter bolt burst. Recommended MW: Stability.|tags:pvp
@@ -358,3 +369,7 @@ dimwishlist:item=1621657423&perks=2801223209,3429800428,247725512,3365897133
 //notes:One of just two 140 RPM hand cannons that can roll with Opening Shot / Explosive Payload as of Season 15. The Range stat isn't the best, but with the perfect roll, you can get 30 meters out of it. Recommended MW: Range.|tags:pvp
 dimwishlist:item=654370424&perks=1840239774,3142289711,47981717,3038247973
 dimwishlist:item=654370424&perks=4090651448,3142289711,47981717,3038247973
+
+// True Prophecy
+//notes:Opening Shot plus Timed Payload for the extra, delayed flinch. Recommended MW: Range or Handling.|tags:pvp
+dimwishlist:item=2742838700&perks=1926090094,3142289711,47981717,1954620775
