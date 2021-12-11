@@ -373,3 +373,39 @@ dimwishlist:item=654370424&perks=4090651448,3142289711,47981717,3038247973
 // True Prophecy
 //notes:Opening Shot plus Timed Payload for the extra, delayed flinch. Recommended MW: Range or Handling.|tags:pvp
 dimwishlist:item=2742838700&perks=1926090094,3142289711,47981717,1954620775
+
+// Eyasluna
+//notes:Pretty classic PvP roll: high-cal, rapid-hit, and kill clip. The stability on this thing is pretty high already. Should feel pretty spectacular with this roll. It's a serious competitor with Fatebringer and Palindrome (though it's a "kinetic" weapon). Recommended MW: Range.|tags:pvp
+dimwishlist:item=235827225&perks=1926090094,1561002382,247725512,1015611457
+
+// Retraced Path
+//notes:Subsistence / One for All could be killer on this trace rifle. It's like a better Prometheus Lens, and it's not even an exotic. Recommended MW: Reload.|tags:pve
+dimwishlist:item=548958835&perks=1840239774,2680121939,1820235745,4049631843
+
+// Wastelander M5
+//notes:The second shotgun to roll with Subsistence (behind The Comedian). I think Trench Barrel is the second trait perk to pair with it. Looking to extend the magazine and increase reload speed with Tactical Mag. Barrel Shroud for that +9 in Stability and Handling. Recommended MW: Reload.|tags:pve
+dimwishlist:item=1679868061&perks=1300023272,106909392,1820235745,2360754333
+
+//notes:Classic Slideshot / Opening Shot roll for PvP. Pretty standard expectations. Honestly, kinda curious about Perpetual Motion, too. Recommended MW: Range or Handling.|tags:pvp
+dimwishlist:item=1679868061&perks=1047830412,3142289711,3161816588,47981717
+dimwishlist:item=1679868061&perks=1047830412,3142289711,1428297954,47981717
+
+// BXR-55 Battler
+//notes:This thing is a stat monster. Fluted Barrel and Ricochet Rounds to bump the stats up even more. Then, some combination of Killing Wind or Perpetual Motion and Eye of the Storm or Kill Clip. Recommended MW: Range.|tags:pvp
+dimwishlist:item=2708806099&perks=1840239774,1885400500,1428297954,699525795
+dimwishlist:item=2708806099&perks=1840239774,1885400500,1428297954,1015611457
+dimwishlist:item=2708806099&perks=1840239774,1885400500,2450788523,699525795
+dimwishlist:item=2708806099&perks=1840239774,1885400500,2450788523,1015611457
+
+// Pardon Our Dust
+//notes:I still think it's Auto-Loading Holster all the way. Then it's probably Blinding Grenades first choice, Spike Grenades second. If it's Blinding, you want Launcher Barrel perks that don't put points toward blast radius (and don't subtract points from anything), as that's capped at 5. If it's Spike, gotta get that velocity up as high as possible (again, blast radius is unaffected because it's capped at 55). Recommended MW: Reload or Velocity.|tags:pve
+dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,1546637391
+dimwishlist:item=3849810018&perks=3798852852,3032599245,3300816228,1546637391
+dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,11612903
+dimwishlist:item=3849810018&perks=3798852852,3032599245,3300816228,11612903
+dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,960810156
+dimwishlist:item=3849810018&perks=3798852852,3032599245,3300816228,960810156
+dimwishlist:item=3849810018&perks=3525010810,3301904089,3300816228,11612903
+dimwishlist:item=3849810018&perks=3798852852,3301904089,3300816228,11612903
+dimwishlist:item=3849810018&perks=3525010810,3301904089,3300816228,1546637391
+dimwishlist:item=3849810018&perks=3798852852,3301904089,3300816228,1546637391
