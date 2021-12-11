@@ -409,3 +409,8 @@ dimwishlist:item=3849810018&perks=3525010810,3301904089,3300816228,11612903
 dimwishlist:item=3849810018&perks=3798852852,3301904089,3300816228,11612903
 dimwishlist:item=3849810018&perks=3525010810,3301904089,3300816228,1546637391
 dimwishlist:item=3849810018&perks=3798852852,3301904089,3300816228,1546637391
+
+// Matador 64
+//notes:This thing's a Handling monster with Threat Detector. Opening Shot plus other Range-extending perks get it to near-max Range. Very nice, and because it's Arc, pairable with Fatebringer, Eyasluna, DMT, and other great kinetic weapons. Recommended MW: Handling or Range.|tags:pvp
+dimwishlist:item=2563012876&perks=1047830412,3142289711,4071163871,47981717
+dimwishlist:item=2563012876&perks=1047830412,3142289711,4071163871,2610012052
