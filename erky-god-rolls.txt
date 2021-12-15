@@ -59,8 +59,11 @@ dimwishlist:item=534775659&perks=839105230,3868766766,2779035018,1427256713
 dimwishlist:item=534775659&perks=1840239774,3868766766,2779035018,1427256713
 
 // Hung Jury (Adept)
-//notes:Curious about how a Rapid Hit / One for All roll would perform in high-end PVE content. Recommended MW: Handling or Reload.|tags:pve
+//notes:Curious about how a Rapid Hit / One for All roll would perform in high-end PVE content, as well as Surplus/Wellspring and Adrenaline Junkie. Recommended MW: Handling or Reload.|tags:pve
 dimwishlist:item=681067419&perks=1840239774,106909392,247725512,4049631843
+dimwishlist:item=681067419&perks=1840239774,106909392,3436462433,3592538738
+dimwishlist:item=681067419&perks=1840239774,106909392,247725512,11612903
+dimwishlist:item=681067419&perks=1840239774,106909392,1570042021,11612903
 
 // The Palindrome (Adept)
 //notes:Fluted, High-Cal, Quickdraw, and Rangefinder. That's my PVP god roll right there. A Range masterwork and Adept Icarus Grip put the big three (Range, Stability, Handling) at 73, 69, and 71. Nice. Recommended MW: Range.|tags:pvp
