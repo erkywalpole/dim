@@ -394,14 +394,18 @@ dimwishlist:item=1679868061&perks=1047830412,3142289711,3161816588,47981717
 dimwishlist:item=1679868061&perks=1047830412,3142289711,1428297954,47981717
 
 // BXR-55 Battler
-//notes:This thing is a stat monster. Fluted Barrel and Ricochet Rounds to bump the stats up even more. Then, some combination of Killing Wind or Perpetual Motion and Eye of the Storm or Kill Clip. Recommended MW: Range.|tags:pvp
+//notes:This thing is a stat monster. Fluted Barrel or Arrowhead Brake (for 100 recoil) and Ricochet Rounds to bump the stats up even more. Then, some combination of Killing Wind or Perpetual Motion and Eye of the Storm or Kill Clip. Recommended MW: Range.|tags:pvp
 dimwishlist:item=2708806099&perks=1840239774,1885400500,1428297954,699525795
 dimwishlist:item=2708806099&perks=1840239774,1885400500,1428297954,1015611457
 dimwishlist:item=2708806099&perks=1840239774,1885400500,2450788523,699525795
 dimwishlist:item=2708806099&perks=1840239774,1885400500,2450788523,1015611457
+dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,699525795
+dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,1015611457
+dimwishlist:item=2708806099&perks=839105230,1885400500,2450788523,699525795
+dimwishlist:item=2708806099&perks=839105230,1885400500,2450788523,1015611457
 
 // Pardon Our Dust
-//notes:I still think it's Auto-Loading Holster all the way. Then it's probably Blinding Grenades first choice, Spike Grenades second. If it's Blinding, you want Launcher Barrel perks that don't put points toward blast radius (and don't subtract points from anything), as that's capped at 5. If it's Spike, gotta get that velocity up as high as possible (again, blast radius is unaffected because it's capped at 55). Recommended MW: Reload or Velocity.|tags:pve
+//notes:Another grenade launcher, and I still think it's Auto-Loading Holster all the way. Then it's probably Blinding Grenades first choice, Spike Grenades second. If it's Blinding, you want Launcher Barrel perks that don't put points toward blast radius (and don't subtract points from anything), as that's capped at 5. If it's Spike, gotta get that velocity up as high as possible (again, blast radius is unaffected because it's capped at 55). Recommended MW: Reload or Velocity.|tags:pve
 dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,1546637391
 dimwishlist:item=3849810018&perks=3798852852,3032599245,3300816228,1546637391
 dimwishlist:item=3849810018&perks=3525010810,3032599245,3300816228,11612903
@@ -417,3 +421,8 @@ dimwishlist:item=3849810018&perks=3798852852,3301904089,3300816228,1546637391
 //notes:This thing's a Handling monster with Threat Detector. Opening Shot plus other Range-extending perks get it to near-max Range. Very nice, and because it's Arc, pairable with Fatebringer, Eyasluna, DMT, and other great kinetic weapons. Recommended MW: Handling or Range.|tags:pvp
 dimwishlist:item=2563012876&perks=1047830412,3142289711,4071163871,47981717
 dimwishlist:item=2563012876&perks=1047830412,3142289711,4071163871,2610012052
+
+// 1000 Yard Stare
+//notes:Classic sniper roll is Quickdraw / Snapshot, but I’m very curious about Heating Up on a sniper. Recommended MW: Handling or Range.|tags:pvp
+dimwishlist:item=4164201232&perks=1840239774,3142289711,1570042021,957782887
+dimwishlist:item=4164201232&perks=1840239774,3142289711,706527188,957782887
