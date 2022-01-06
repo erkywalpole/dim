@@ -326,7 +326,8 @@ dimwishlist:item=2443900757&perks=4090651448,106909392,1820235745,1546637391
 
 // The Deicide
 //notes:Looking for a melee-oriented roll on this gun, especially with the 15% PVE buff to pellet shotguns that arrived at the mid-point of Season 15. Recommended MW: Reload.|tags:pve
-dimwishlist:item=217140611&perks=1300023272,106909392,1631667848,2679249093
+dimwishlist:item=217140611&perks=1047830412,106909392,1631667848,2679249093
+dimwishlist:item=217140611&perks=1047830412,1087426260,1631667848,2679249093
 
 // Scathelocke
 //notes:Just a solid PVE auto rifle. Don't need to worry about range because the zoom is 20, which is 3 more than all other adaptive autos. Recoil direction is a hard 60, so you need something to straighten that out, Arrowhead Brake or Heating Up. Rampage and Adrenaline Junkie are my favored damage buff plays. Recommended MW: Reload.|tags:pve
@@ -378,7 +379,18 @@ dimwishlist:item=654370424&perks=4090651448,3142289711,47981717,3038247973
 dimwishlist:item=2742838700&perks=1926090094,3142289711,47981717,1954620775
 
 // Eyasluna
-//notes:Pretty classic PvP roll: high-cal, rapid-hit, and kill clip. The stability on this thing is pretty high already. Should feel pretty spectacular with this roll. It's a serious competitor with Fatebringer and Palindrome (though it's a "kinetic" weapon). Recommended MW: Range.|tags:pvp
+//notes:Pretty classic PvP roll is high-cal, rapid-hit, and kill clip. Looking for some other combos as well, like Rangefinder / Moving Target. The stability on this thing is pretty high already. Should feel pretty spectacular with any of these rolls. It's a serious competitor with Fatebringer and Palindrome (though it's a "kinetic" weapon). Recommended MW: Range or Handling.|tags:pvp
+dimwishlist:item=235827225&perks=1926090094,1561002382,247725512,1015611457
+dimwishlist:item=235827225&perks=1926090094,1561002382,2846385770,588594999
+dimwishlist:item=235827225&perks=1926090094,1561002382,2846385770,957782887
+
+//notes:There are some pretty cool PvE options for Eyasluna, in addition to the PvP rolls that everyone is lusting for. This is the first 140 RPM hand cannon to get Headstone, which feels pretty nice in low- to medium-level content, especially with the buff to stasis crystals' explosive damage. Demolitionist and Kill Clip are always nice, too. There are a lot of good trait perks in column 1 as well, but I am focusing on Rapid Hit and Unrelenting (paired with Headstone). Recommended MW: Reload.|tags:pve
+dimwishlist:item=235827225&perks=1926090094,3230963543,3108830275,124408337
+dimwishlist:item=235827225&perks=1926090094,1968497646,247725512,124408337
+dimwishlist:item=235827225&perks=1926090094,1561002382,247725512,124408337
+dimwishlist:item=235827225&perks=1926090094,1968497646,247725512,3523296417
+dimwishlist:item=235827225&perks=1926090094,1561002382,247725512,3523296417
+dimwishlist:item=235827225&perks=1926090094,1968497646,247725512,1015611457
 dimwishlist:item=235827225&perks=1926090094,1561002382,247725512,1015611457
 
 // Retraced Path
@@ -393,6 +405,12 @@ dimwishlist:item=1679868061&perks=1300023272,106909392,1820235745,2360754333
 dimwishlist:item=1679868061&perks=1047830412,3142289711,3161816588,47981717
 dimwishlist:item=1679868061&perks=1047830412,3142289711,1428297954,47981717
 
+//notes:One-Two Punch is a great option for a bonk-bonk Titan. I'd recommend Full Choke to increase the chances that all of your pellets hit.|tags:pve
+dimwishlist:item=1679868061&perks=1047830412,106909392,1428297954,2679249093
+dimwishlist:item=1679868061&perks=1047830412,1087426260,1428297954,2679249093
+dimwishlist:item=1679868061&perks=1047830412,106909392,3161816588,2679249093
+dimwishlist:item=1679868061&perks=1047830412,1087426260,3161816588,2679249093
+
 // BXR-55 Battler
 //notes:This thing is a stat monster. Fluted Barrel or Arrowhead Brake (for 100 recoil) and Ricochet Rounds to bump the stats up even more. Then, some combination of Killing Wind or Perpetual Motion and Eye of the Storm or Kill Clip. Recommended MW: Range.|tags:pvp
 dimwishlist:item=2708806099&perks=1840239774,1885400500,1428297954,699525795
@@ -403,6 +421,10 @@ dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,699525795
 dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,1015611457
 dimwishlist:item=2708806099&perks=839105230,1885400500,2450788523,699525795
 dimwishlist:item=2708806099&perks=839105230,1885400500,2450788523,1015611457
+
+//notes:The first energy weapon to roll with Demolitionist/Adrenaline Junkie. Like with the PvP rolls, looking for Arrowhead Brake to get the recoil to a perfect 100, but want Flared Magwell or Light Mag to help with reload times. Recommended MW: Reload.|tags:pve
+dimwishlist:item=2708806099&perks=839105230,3230963543,3523296417,11612903
+dimwishlist:item=2708806099&perks=839105230,679225683,3523296417,11612903
 
 // Pardon Our Dust
 //notes:Another grenade launcher, and I still think it's Auto-Loading Holster all the way. Then it's probably Blinding Grenades first choice, Spike Grenades second. If it's Blinding, you want Launcher Barrel perks that don't put points toward blast radius (and don't subtract points from anything), as that's capped at 5. If it's Spike, gotta get that velocity up as high as possible (again, blast radius is unaffected because it's capped at 55). Recommended MW: Reload or Velocity.|tags:pve
