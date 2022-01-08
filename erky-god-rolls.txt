@@ -412,11 +412,7 @@ dimwishlist:item=1679868061&perks=1047830412,106909392,3161816588,2679249093
 dimwishlist:item=1679868061&perks=1047830412,1087426260,3161816588,2679249093
 
 // BXR-55 Battler
-//notes:This thing is a stat monster. Fluted Barrel or Arrowhead Brake (for 100 recoil) and Ricochet Rounds to bump the stats up even more. Then, some combination of Killing Wind or Perpetual Motion and Eye of the Storm or Kill Clip. Recommended MW: Range.|tags:pvp
-dimwishlist:item=2708806099&perks=1840239774,1885400500,1428297954,699525795
-dimwishlist:item=2708806099&perks=1840239774,1885400500,1428297954,1015611457
-dimwishlist:item=2708806099&perks=1840239774,1885400500,2450788523,699525795
-dimwishlist:item=2708806099&perks=1840239774,1885400500,2450788523,1015611457
+//notes:This thing is a stat monster. Arrowhead Brake (for 100 recoil) and Ricochet Rounds to bump the stats up even more. Then, some combination of Killing Wind or Perpetual Motion and Eye of the Storm or Kill Clip. Recommended MW: Range.|tags:pvp
 dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,699525795
 dimwishlist:item=2708806099&perks=839105230,1885400500,1428297954,1015611457
 dimwishlist:item=2708806099&perks=839105230,1885400500,2450788523,699525795
@@ -448,3 +444,29 @@ dimwishlist:item=2563012876&perks=1047830412,3142289711,4071163871,2610012052
 //notes:Classic sniper roll is Quickdraw / Snapshot, but I’m very curious about Heating Up on a sniper. Recommended MW: Handling or Range.|tags:pvp
 dimwishlist:item=4164201232&perks=1840239774,3142289711,1570042021,957782887
 dimwishlist:item=4164201232&perks=1840239774,3142289711,706527188,957782887
+
+// Xenoclast IV
+//notes:Only roll I'm interested in here is Grave Robber / One-Two Punch for a big-bonk Titan, but I won't exactly be trying for it, simply because there are just too many perks in the pool. If I get it, I'll be lucky because there's a 0.1% chance I ever will. Recommended MW: Handling, but I'll take anything.|tags:pve
+dimwishlist:item=2891672170&perks=1047830412,791862061,1631667848,2679249093
+dimwishlist:item=2891672170&perks=1047830412,1087426260,1631667848,2679249093
+dimwishlist:item=2891672170&perks=1047830412,106909392,1631667848,2679249093
+dimwishlist:item=2891672170&perks=1047830412,3142289711,1631667848,2679249093
+
+// Prophet of Doom
+//notes:Not much to choose from here, but I think I'm interested in a Genesis / One-Two Punch roll. Need Full Choke to increase the chances of every pellet hitting. Recommended MW: Reload.|tags:pve
+dimwishlist:item=4020742303&perks=1047830412,791862061,3096702027,2679249093
+dimwishlist:item=4020742303&perks=1047830412,1087426260,3096702027,2679249093
+dimwishlist:item=4020742303&perks=1047830412,106909392,3096702027,2679249093
+dimwishlist:item=4020742303&perks=1047830412,3142289711,3096702027,2679249093
+
+// Retold Tale
+//notes:Definitely want One-Two Punch, but a little unsure what to pair with it. Going to keep it broad, so these might not all be "god rolls," but they'll be very good. If Field Prep is in your roll, make sure you're crouching when doing damage for maximum benefit (might be too much to keep in mind, but we'll see). Recommended MW: Reload or Handling.|tags:pve
+dimwishlist:item=346136302&perks=1047830412,791862061,3161816588,2679249093
+dimwishlist:item=346136302&perks=1047830412,1087426260,3161816588,2679249093
+dimwishlist:item=346136302&perks=1047830412,106909392,3161816588,2679249093
+dimwishlist:item=346136302&perks=1047830412,791862061,706527188,2679249093
+dimwishlist:item=346136302&perks=1047830412,1087426260,706527188,2679249093
+dimwishlist:item=346136302&perks=1047830412,106909392,706527188,2679249093
+dimwishlist:item=346136302&perks=1047830412,791862061,2869569095,2679249093
+dimwishlist:item=346136302&perks=1047830412,1087426260,2869569095,2679249093
+dimwishlist:item=346136302&perks=1047830412,106909392,2869569095,2679249093
