@@ -470,3 +470,10 @@ dimwishlist:item=346136302&perks=1047830412,106909392,706527188,2679249093
 dimwishlist:item=346136302&perks=1047830412,791862061,2869569095,2679249093
 dimwishlist:item=346136302&perks=1047830412,1087426260,2869569095,2679249093
 dimwishlist:item=346136302&perks=1047830412,106909392,2869569095,2679249093
+
+// One Small Step
+//notes:I am only interested in the gun for its One-Two Punch. It no longer rolls with Grave Robber, but you can get it with Auto-Loading Holster, which frees up some mod energy since I won't have to use a shotgun loader mod. Slideshot wouldn't hurt, too. Recommended MW: Handling.|tags:pve
+dimwishlist:item=1016668089&perks=1047830412,1087426260,3300816228,2679249093
+dimwishlist:item=1016668089&perks=1047830412,106909392,3300816228,2679249093
+dimwishlist:item=1016668089&perks=1047830412,1087426260,3161816588,2679249093
+dimwishlist:item=1016668089&perks=1047830412,106909392,3161816588,2679249093
