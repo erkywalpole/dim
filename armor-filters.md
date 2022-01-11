@@ -41,19 +41,18 @@ The great thing about this approach (and the upcoming Tier 3 filter) is it’s e
 
 And finally, there’s **Tier 3**. You’ve been playing for a long while. You have some great armor sets. You only want to replace them with even more amazing pieces. This tier is for your god rolled armor pieces and for armor pieces that will contribute 25+ points to certain stats, giving you a chance at 100 without any mods.
 
-`is:armor -tag:keep -tag:archive -tag:favorite -tag:infuse not:inloadout not:masterwork
+`is:armor -tag:keep -tag:archive -tag:infuse
 (
 (
 not:classitem
 -(
-(is:hunter ((basestat:mobility:>=18 basestat:recovery:>=23) or (basestat:mobility:>=23 basestat:total:>=64))) or 
-(is:titan (basestat:recovery:>=23 or (basestat:resilience:>=18 basestat:strength:>=13 basestat:discipline:>=13) or (basestat:strength:>=23  basestat:total:>=64))) or 
-(is:warlock (basestat:recovery:>=28 or (basestat:recovery:>=23 basestat:discipline:>=18) or (basestat:intellect:>=23 basestat:total:>=64))) or 
-(not:hunter basestat:mobility:>=18 basestat:custom:>=39) or 
-(not:warlock basestat:discipline:>=18 basestat:custom:>=39) or 
-(not:titan basestat:strength:>=18 basestat:custom:>=39) or
-(not:titan basestat:resilience:>=18 basestat:custom:>=39) or 
-(basestat:intellect:>=28 basestat:custom:>=39) or
+(is:hunter ((basestat:mobility:>=13 basestat:recovery:>=18) or (basestat:recovery:>=23 basestat:strength:>=18))) or 
+(is:titan ((basestat:resilience:>=13 basestat:recovery:>=18) or (basestat:resilience:>=18 basestat:strength:>=13 basestat:discipline:>=13) or (basestat:recovery:>=23  basestat:strength:>=18))) or 
+(is:warlock ((basestat:recovery:>=28 basestat:total:>=62) or (basestat:recovery:>=23 basestat:discipline:>=18))) or 
+(not:hunter basestat:mobility:>=13 basestat:custom:>=39 basestat:total:>=62) or 
+(not:warlock basestat:recovery:>=23 basestat:discipline:>=18 basestat:total:>=62) or 
+(not:titan basestat:strength:>=18 basestat:custom:>=39 basestat:total:>=62) or
+(not:titan basestat:resilience:>=18 basestat:custom:>=39 basestat:total:>=64) or
 (basestat:custom:>=50 basestat:total:>=62) or
 basestat:total:>=68
 )
