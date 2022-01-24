@@ -46,13 +46,9 @@ And finally, there’s **Tier 3**. You’ve been playing for a long while. You h
 (
 not:classitem
 -(
-(is:hunter ((basestat:mobility:>=13 basestat:recovery:>=18) or (basestat:recovery:>=23 basestat:strength:>=18))) or 
-(is:titan ((basestat:resilience:>=13 basestat:recovery:>=18) or (basestat:resilience:>=18 basestat:strength:>=13 basestat:discipline:>=13) or (basestat:recovery:>=23  basestat:strength:>=18))) or 
-(is:warlock ((basestat:recovery:>=28 basestat:total:>=62) or (basestat:recovery:>=23 basestat:discipline:>=18))) or 
-(not:hunter basestat:mobility:>=13 basestat:custom:>=39 basestat:total:>=62) or 
-(not:warlock basestat:recovery:>=23 basestat:discipline:>=18 basestat:total:>=62) or 
-(not:titan basestat:strength:>=18 basestat:custom:>=39 basestat:total:>=62) or
-(not:titan basestat:resilience:>=18 basestat:custom:>=39 basestat:total:>=64) or
+(is:hunter ((basestat:mobility+recovery:>=30 basestat:recovery:>=18 ((basestat:discipline:>=13 or basestat:strength:>=13) basestat:intellect:>=8) or (basestat:discipline:>=13 basestat:strength:>=13)) or (basestat:recovery:>=23 (basestat:discipline:>=18 or basestat:strength:>=18)))) or 
+(is:titan ((basestat:resilience+recovery:>=30 basestat:recovery:>=18 ((basestat:discipline:>=13 or basestat:strength:>=13) basestat:intellect:>=8) or (basestat:discipline:>=13 basestat:strength:>=13)) or (basestat:recovery:>=23 (basestat:discipline:>=18 or basestat:strength:>=18)))) or 
+(is:warlock ((basestat:recovery:>=28 basestat:total:>=62) or (basestat:discipline+recovery:>=40 ((basestat:intellect:>=8 basestat:intellect:<=18) or basestat:strength:>=13)))) or 
 (basestat:custom:>=50 basestat:total:>=62) or
 basestat:total:>=68
 )
