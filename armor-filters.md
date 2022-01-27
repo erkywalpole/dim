@@ -12,7 +12,7 @@ Instead of one giant overly inclusive filter that covers all reasons to keep an 
 
 For example, when you’re first getting started with Destiny or coming back after a long absence, what’s most important is just finding decent, even rolls at any rarity that add at least 10 points to each stat. Here’s a filter that would help you find those pieces, which I'm calling **Tier 1**:
 
-`is:armor not:classitem -tag:keep -tag:archive -tag:favorite -tag:infuse not:inloadout not:masterwork -(basestat:mobility:>=8 basestat:resilience:>=8 basestat:recovery:>=8 basestat:discipline:>=8 basestat:intellect:>=8 basestat:strength:>=8)`
+`is:armor not:classitem -tag:keep -tag:archive -tag:favorite -tag:infuse not:inloadout not:masterwork -((basestat:mobility:>=8 basestat:resilience:>=8 basestat:recovery:>=8 basestat:discipline:>=8 basestat:intellect:>=8 basestat:strength:>=8) or basestat:total:>=58)`
 
 You can paste it into DIM and see what it does. I basically pulled it straight from the previous filter. A reminder: the way these filters work is they highlight things that *don’t* match the criteria you set so you know what you can safely tag as junk and dismantle.
 
